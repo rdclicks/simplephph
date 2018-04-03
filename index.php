@@ -6,4 +6,4 @@ $image_url='/bclc-logo-960.jpg.scale.704x.jpg';
 
 <img src="<?php echo $image_url;?>">
 
-<br><h1>Openshift Container Platform</h1>
+<br><h1>Openshift Container Platform at BCLC</h1>
