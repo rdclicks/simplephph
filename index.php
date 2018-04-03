@@ -2,8 +2,9 @@
 <body
 
 <?php
-    echo "<img src=bclc-logo-960.jpg.scale.704x.jpg />";
-echo '<img src="bclc-logo-960.jpg.scale.704x.jpg" alt="logo" />';
+
+#echo '<img src="bclc-logo-960.jpg.scale.704x.jpg" alt="logo" />';
+
 ?>
 
 <br><h1>Openshift Container Platform at BCLC</h1>
