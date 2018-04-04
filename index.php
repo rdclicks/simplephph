@@ -8,4 +8,3 @@
 ?>
 
 <br><h1>Openshift Container Platform at BCLC</h1>
-<br><h3>Awesome Stuff</h3>
