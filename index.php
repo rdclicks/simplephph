@@ -3,7 +3,7 @@
 
 <?php
 
-#echo '<img src="bclc-logo-960.jpg.scale.704x.jpg" alt="logo" />';
+echo '<img src="bclc-logo-960.jpg.scale.704x.jpg" alt="logo" />';
 
 ?>
 
