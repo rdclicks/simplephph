@@ -2,7 +2,7 @@
 <body
 
 <?php
-
+phpinfo();
 echo '<img src="bclc-logo.jpg" alt="logo" />';
 
 ?>
